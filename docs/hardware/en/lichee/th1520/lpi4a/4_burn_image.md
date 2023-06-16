@@ -17,8 +17,8 @@ Refer to the previous chapter "Images" to find the desired image.
 The image burning method below uses the Debian image `LPi4A_Test_0425.7z` as an example .
 
 ### Get the burning tool
-The burning tool can be obtained from the Mega cloud disk and is found in the `burn_tool.zip` file.
-After decompresseion the fastboot binary is found in the win/linux/mac subfolders.
+The burning tool can be obtained from the Mega cloud disk and is found in the `burn_tool.zip`.
+After having unzipped the archive the fastboot binary is found in the win/linux/mac subfolders.
 
 ## How to enter burning mode
 
